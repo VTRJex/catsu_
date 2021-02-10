@@ -1,4 +1,5 @@
-# THIS IS NOT MINE, IT IS A TEMPORARY REPO OF GULAG-WEB WHILE YO-RU MAKES A REWRITE.
+# THIS IS AN ARCHIVED REPOSITORY! This was the original code for gulag-web before it was rewritten in Python!
+# Have a look around, it's quite antient.
 
 [![Discord](https://discordapp.com/api/guilds/748687781605408908/widget.png?style=shield)](https://discord.gg/ShEQgUx)
 
